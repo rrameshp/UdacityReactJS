@@ -1,2 +1,2 @@
 # UdacityReactJS
-Practice excercises from ReactJS
+Practice excercises from ReactJS for creating projects
